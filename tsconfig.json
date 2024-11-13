@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "components/data/songs.js", "components/data/SongsWithCategory.js", "components/data/SongsWithCategory.js", "components/data/songs.js", "services.js"  ]
 }
